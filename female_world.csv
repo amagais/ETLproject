@@ -1,0 +1,926 @@
+,Country,Code,Series Name,female_labor,female_Education,Code,female_population,Year
+0,Afghanistan,AF,"Labor force, female",1723907,36.8,AF,48.6,2015
+1,Albania,AL,"Labor force, female",535475,95.1,AL,49.1,2015
+2,Algeria,DZ,"Labor force, female",2138317,..,DZ,49.5,2015
+3,American Samoa,AS,"Labor force, female",..,..,AS,..,2015
+4,Andorra,AD,"Labor force, female",..,..,AD,..,2015
+5,Angola,AO,"Labor force, female",5724786,..,AO,50.5,2015
+6,Antigua and Barbuda,AG,"Labor force, female",..,109.3,AG,51.9,2015
+7,Argentina,AR,"Labor force, female",8055761,110.2,AR,51.3,2015
+8,Armenia,AM,"Labor force, female",625900,88.3,AM,53,2015
+9,Aruba,AW,"Labor force, female",..,..,AW,52.5,2015
+10,Australia,AU,"Labor force, female",5777417,145.9,AU,50.2,2015
+11,Austria,AT,"Labor force, female",2082070,98.5,AT,51,2015
+12,Azerbaijan,AZ,"Labor force, female",2390115,..,AZ,50.2,2015
+13,Bahrain,BH,"Labor force, female",169057,101.8,BH,38.3,2015
+14,Bangladesh,BD,"Labor force, female",17689452,69.7,BD,49.3,2015
+15,Barbados,BB,"Labor force, female",75248,109.5,BB,51.8,2015
+16,Belarus,BY,"Labor force, female",2535516,104.6,BY,53.5,2015
+17,Belgium,BE,"Labor force, female",2302873,174.7,BE,50.8,2015
+18,Belize,BZ,"Labor force, female",59779,81.7,BZ,50.1,2015
+19,Benin,BJ,"Labor force, female",2093963,48.9,BJ,50.2,2015
+20,Bermuda,BM,"Labor force, female",..,81.5,BM,..,2015
+21,Bhutan,BT,"Labor force, female",143110,86.8,BT,47.2,2015
+22,Bosnia and Herzegovina,BA,"Labor force, female",541209,..,BA,51,2015
+23,Botswana,BW,"Labor force, female",476262,..,BW,51.8,2015
+24,Brazil,BR,"Labor force, female",43400379,102.9,BR,50.8,2015
+25,Brunei Darussalam,BN,"Labor force, female",87387,97.5,BN,48,2015
+26,Bulgaria,BG,"Labor force, female",1551054,100.6,BG,51.4,2015
+27,Burkina Faso,BF,"Labor force, female",2937913,32.3,BF,50.2,2015
+28,Burundi,BI,"Labor force, female",2264944,42.9,BI,50.5,2015
+29,Cambodia,KH,"Labor force, female",4117901,..,KH,51.2,2015
+30,Cameroon,CM,"Labor force, female",4738334,54.4,CM,50,2015
+31,Canada,CA,"Labor force, female",9259601,110.9,CA,50.4,2015
+32,Cayman Islands,KY,"Labor force, female",..,..,KY,..,2015
+33,Central African Republic,CF,"Labor force, female",812879,..,CF,50.4,2015
+34,Chad,TD,"Labor force, female",2365194,13.9,TD,50.1,2015
+35,Chile,CL,"Labor force, female",3661220,102.1,CL,50.8,2015
+36,China,CN,"Labor force, female",345111490,..,CN,48.6,2015
+37,Colombia,CO,"Labor force, female",10837419,98.1,CO,51,2015
+38,Comoros,KM,"Labor force, female",82860,..,KM,49.6,2015
+39,Costa Rica,CR,"Labor force, female",919273,125.3,CR,50,2015
+40,Cote d'Ivoire,CI,"Labor force, female",3132742,35.1,CI,49.4,2015
+41,Croatia,HR,"Labor force, female",877559,101,HR,51.9,2015
+42,Cuba,CU,"Labor force, female",1985758,99.1,CU,50.3,2015
+43,Curacao,CW,"Labor force, female",..,..,CW,54.2,2015
+44,Cyprus,CY,"Labor force, female",280552,99.4,CY,49.9,2015
+45,Czech Republic,CZ,"Labor force, female",2359591,105.6,CZ,50.9,2015
+46,Denmark,DK,"Labor force, female",1379748,133.4,DK,50.3,2015
+47,Djibouti,DJ,"Labor force, female",151643,45.3,DJ,47.1,2015
+48,Dominica,DM,"Labor force, female",..,93.8,DM,..,2015
+49,Dominican Republic,DO,"Labor force, female",1826371,83.8,DO,49.9,2015
+50,Ecuador,EC,"Labor force, female",3020139,106.2,EC,49.9,2015
+51,El Salvador,SV,"Labor force, female",1116653,75.6,SV,53,2015
+52,Equatorial Guinea,GQ,"Labor force, female",168278,..,GQ,44.7,2015
+53,Eritrea,ER,"Labor force, female",..,47.5,ER,..,2015
+54,Estonia,EE,"Labor force, female",334270,110.8,EE,53.2,2015
+55,Ethiopia,ET,"Labor force, female",21571198,34.2,ET,50,2015
+56,Faroe Islands,FO,"Labor force, female",..,..,FO,..,2015
+57,Fiji,FJ,"Labor force, female",120689,..,FJ,49.2,2015
+58,Finland,FI,"Labor force, female",1301682,157.5,FI,50.8,2015
+59,France,FR,"Labor force, female",14382091,103.9,FR,51.5,2015
+60,French Polynesia,PF,"Labor force, female",50222,..,PF,49.2,2015
+61,Gabon,GA,"Labor force, female",257350,..,GA,49.1,2015
+62,Georgia,GE,"Labor force, female",951178,100.8,GE,52.2,2015
+63,Germany,DE,"Labor force, female",19708555,96.4,DE,50.8,2015
+64,Ghana,GH,"Labor force, female",5422143,66.1,GH,49.4,2015
+65,Gibraltar,GI,"Labor force, female",..,..,GI,..,2015
+66,Greece,GR,"Labor force, female",2127175,98.4,GR,50.9,2015
+67,Greenland,GL,"Labor force, female",..,..,GL,..,2015
+68,Grenada,GD,"Labor force, female",..,110.7,GD,49.6,2015
+69,Guam,GU,"Labor force, female",31951,..,GU,49.4,2015
+70,Guatemala,GT,"Labor force, female",2100917,52.6,GT,50.8,2015
+71,Guinea,GN,"Labor force, female",2129308,..,GN,52.1,2015
+72,Guinea-Bissau,GW,"Labor force, female",342662,..,GW,51.3,2015
+73,Guyana,GY,"Labor force, female",115624,..,GY,50,2015
+74,Haiti,HT,"Labor force, female",2208902,..,HT,50.6,2015
+75,Honduras,HN,"Labor force, female",1477995,55.4,HN,50.1,2015
+76,Hungary,HU,"Labor force, female",2114492,103.3,HU,52.5,2015
+77,Iceland,IS,"Labor force, female",96445,119.6,IS,49.8,2015
+78,India,IN,"Labor force, female",98241557,74.7,IN,48,2015
+79,Indonesia,ID,"Labor force, female",47445679,86.3,ID,49.6,2015
+80,Iraq,IQ,"Labor force, female",1519907,..,IQ,49.4,2015
+81,Ireland,IE,"Labor force, female",1031700,118.7,IE,50.5,2015
+82,Isle of Man,IM,"Labor force, female",..,..,IM,..,2015
+83,Israel,IL,"Labor force, female",1822148,104.2,IL,50.4,2015
+84,Italy,IT,"Labor force, female",10758971,102.1,IT,51.5,2015
+85,Jamaica,JM,"Labor force, female",634188,83.8,JM,50.3,2015
+86,Japan,JP,"Labor force, female",28407019,..,JP,51.1,2015
+87,Jordan,JO,"Labor force, female",409560,..,JO,49.4,2015
+88,Kazakhstan,KZ,"Labor force, female",4427415,112.2,KZ,51.6,2015
+89,Kenya,KE,"Labor force, female",10111031,..,KE,50.3,2015
+90,Kiribati,KI,"Labor force, female",..,..,KI,50.9,2015
+91,Kuwait,KW,"Labor force, female",594237,101,KW,41.2,2015
+92,Latvia,LV,"Labor force, female",499931,111.2,LV,54.2,2015
+93,Lebanon,LB,"Labor force, female",538181,..,LB,49.7,2015
+94,Lesotho,LS,"Labor force, female",420177,69.7,LS,50.9,2015
+95,Liberia,LR,"Labor force, female",915378,32.9,LR,49.8,2015
+96,Libya,LY,"Labor force, female",771456,..,LY,49.4,2015
+97,Liechtenstein,LI,"Labor force, female",..,101.7,LI,..,2015
+98,Lithuania,LT,"Labor force, female",741990,105.4,LT,53.9,2015
+99,Luxembourg,LU,"Labor force, female",127627,104.2,LU,49.8,2015
+100,Madagascar,MG,"Labor force, female",5967467,38.3,MG,50.1,2015
+101,Malawi,MW,"Labor force, female",3445559,38.9,MW,50.7,2015
+102,Malaysia,MY,"Labor force, female",5552097,88.7,MY,48.5,2015
+103,Maldives,MV,"Labor force, female",61557,..,MV,40.3,2015
+104,Mali,ML,"Labor force, female",2822049,36.8,ML,50,2015
+105,Malta,MT,"Labor force, female",80888,97.8,MT,50,2015
+106,Marshall Islands,MH,"Labor force, female",..,68.8,MH,..,2015
+107,Mauritania,MR,"Labor force, female",344284,30.3,MR,49.9,2015
+108,Mauritius,MU,"Labor force, female",236287,99.5,MU,50.5,2015
+109,Mexico,MX,"Labor force, female",20079477,104.1,MX,51.1,2015
+110,Monaco,MC,"Labor force, female",..,..,MC,..,2015
+111,Mongolia,MN,"Labor force, female",585220,..,MN,50.6,2015
+112,Montenegro,ME,"Labor force, female",121022,93.5,ME,50.6,2015
+113,Morocco,MA,"Labor force, female",2950031,..,MA,50.5,2015
+114,Mozambique,MZ,"Labor force, female",6073899,31.9,MZ,51.6,2015
+115,Myanmar,MM,"Labor force, female",10373028,..,MM,51.8,2015
+116,Namibia,NAM,"Labor force, female",432164,..,,51.6,2015
+117,Nauru,NR,"Labor force, female",..,..,NR,..,2015
+118,Nepal,NP,"Labor force, female",8302170,69.4,NP,54.1,2015
+119,Netherlands,NL,"Labor force, female",4154787,134.6,NL,50.3,2015
+120,New Caledonia,NC,"Labor force, female",60679,..,NC,49.6,2015
+121,New Zealand,NZ,"Labor force, female",1187411,118.1,NZ,50.8,2015
+122,Nicaragua,NI,"Labor force, female",1091617,..,NI,50.7,2015
+123,Niger,NE,"Labor force, female",3075764,17,NE,49.9,2015
+124,Nigeria,NG,"Labor force, female",24573387,44.7,NG,49.4,2015
+125,Northern Mariana Islands,MP,"Labor force, female",..,..,MP,..,2015
+126,Norway,NO,"Labor force, female",1301179,113.2,NO,49.7,2015
+127,Oman,OM,"Labor force, female",311202,102.4,OM,34.8,2015
+128,Pakistan,PK,"Labor force, female",14873210,34.9,PK,48.5,2015
+129,Palau,PW,"Labor force, female",..,..,PW,..,2015
+130,Panama,PA,"Labor force, female",728921,77.9,PA,49.8,2015
+131,Papua New Guinea,PG,"Labor force, female",1179198,..,PG,49,2015
+132,Paraguay,PY,"Labor force, female",1280869,..,PY,49.1,2015
+133,Peru,PE,"Labor force, female",7567838,97.4,PE,50.3,2015
+134,Philippines,PH,"Labor force, female",17092979,91.5,PH,49.7,2015
+135,Poland,PL,"Labor force, female",8205934,105.7,PL,51.5,2015
+136,Portugal,PT,"Labor force, female",2548230,116.9,PT,52.6,2015
+137,Puerto Rico,PR,"Labor force, female",487646,98.4,PR,52.2,2015
+138,Qatar,QA,"Labor force, female",263614,..,QA,24,2015
+139,Romania,RO,"Labor force, female",3919077,92.9,RO,51.3,2015
+140,Russian Federation,RU,"Labor force, female",36336795,101,RU,53.7,2015
+141,Rwanda,RW,"Labor force, female",2918739,39.4,RW,50.9,2015
+142,Samoa,WS,"Labor force, female",18143,99.1,WS,48.3,2015
+143,San Marino,SM,"Labor force, female",..,..,SM,..,2015
+144,Sao Tome and Principe,ST,"Labor force, female",23695,86.9,ST,50,2015
+145,Saudi Arabia,SA,"Labor force, female",2143232,115,SA,43.1,2015
+146,Senegal,SN,"Labor force, female",1512727,..,SN,51.4,2015
+147,Serbia,RS,"Labor force, female",1354423,97.4,RS,51,2015
+148,Seychelles,SC,"Labor force, female",..,84.4,SC,48.5,2015
+149,Sierra Leone,SL,"Labor force, female",1195806,36.5,SL,50.2,2015
+150,Singapore,SG,"Labor force, female",1437724,..,SG,47.7,2015
+151,Sint Maarten (Dutch part),SX,"Labor force, female",..,..,SX,..,2015
+152,Slovenia,SI,"Labor force, female",463656,111,SI,50.3,2015
+153,Solomon Islands,SB,"Labor force, female",146860,..,SB,49.2,2015
+154,Somalia,SO,"Labor force, female",780084,..,SO,50.1,2015
+155,South Africa,ZA,"Labor force, female",9725772,108.8,ZA,50.6,2015
+156,South Sudan,SS,"Labor force, female",2196216,7.7,SS,50,2015
+157,Spain,ES,"Labor force, female",10671191,124.6,ES,50.9,2015
+158,Sri Lanka,LK,"Labor force, female",2960698,..,LK,51.8,2015
+159,Sudan,SD,"Labor force, female",3289380,45.3,SD,50.1,2015
+160,Suriname,SR,"Labor force, female",79629,88.6,SR,49.7,2015
+161,Sweden,SE,"Labor force, female",2473722,150,SE,50,2015
+162,Switzerland,CH,"Labor force, female",2238439,99.6,CH,50.5,2015
+163,Syrian Arab Republic,SY,"Labor force, female",850468,..,SY,49.6,2015
+164,Tajikistan,TJ,"Labor force, female",852425,..,TJ,49.5,2015
+165,Thailand,TH,"Labor force, female",17765925,118.2,TH,51.2,2015
+166,Timor-Leste,TL,"Labor force, female",219784,74.4,TL,49.4,2015
+167,Togo,TG,"Labor force, female",1644437,..,TG,50.3,2015
+168,Tonga,TO,"Labor force, female",15010,102.4,TO,50,2015
+169,Trinidad and Tobago,TT,"Labor force, female",280717,..,TT,50.5,2015
+170,Tunisia,TN,"Labor force, female",1073446,..,TN,50.4,2015
+171,Turkey,TR,"Labor force, female",9449249,101.5,TR,50.8,2015
+172,Turkmenistan,TM,"Labor force, female",1028154,..,TM,50.8,2015
+173,Turks and Caicos Islands,TC,"Labor force, female",..,..,TC,..,2015
+174,Tuvalu,TV,"Labor force, female",..,90.9,TV,..,2015
+175,Uganda,UG,"Labor force, female",6900182,..,UG,50.9,2015
+176,Ukraine,UA,"Labor force, female",9914042,..,UA,53.7,2015
+177,United Arab Emirates,AE,"Labor force, female",1061960,..,AE,29.6,2015
+178,United Kingdom,GB,"Labor force, female",15555538,126.4,GB,50.7,2015
+179,United States,US,"Labor force, female",73654912,98.2,US,50.5,2015
+180,Uruguay,UY,"Labor force, female",788456,..,UY,51.8,2015
+181,Uzbekistan,UZ,"Labor force, female",5952946,91.3,UZ,50.2,2015
+182,Vanuatu,VU,"Labor force, female",50356,54.9,VU,49.3,2015
+183,Zambia,ZM,"Labor force, female",3079380,..,ZM,50.5,2015
+184,Zimbabwe,ZW,"Labor force, female",3357759,..,ZW,52.5,2015
+0,Afghanistan,AF,"Labor force, female",1895900,37.3,AF,48.6,2016
+1,Albania,AL,"Labor force, female",539982,94.2,AL,49.1,2016
+2,Algeria,DZ,"Labor force, female",2147299,..,DZ,49.5,2016
+3,American Samoa,AS,"Labor force, female",..,..,AS,..,2016
+4,Andorra,AD,"Labor force, female",..,..,AD,..,2016
+5,Angola,AO,"Labor force, female",5935853,39.7,AO,50.5,2016
+6,Antigua and Barbuda,AG,"Labor force, female",..,..,AG,51.8,2016
+7,Argentina,AR,"Labor force, female",8268276,110.9,AR,51.3,2016
+8,Armenia,AM,"Labor force, female",604227,..,AM,53,2016
+9,Aruba,AW,"Labor force, female",..,..,AW,52.5,2016
+10,Australia,AU,"Labor force, female",5882183,141.9,AU,50.2,2016
+11,Austria,AT,"Labor force, female",2119047,98.9,AT,51,2016
+12,Azerbaijan,AZ,"Labor force, female",2424415,..,AZ,50.2,2016
+13,Bahrain,BH,"Labor force, female",174871,104.3,BH,37.8,2016
+14,Bangladesh,BD,"Labor force, female",18314688,75,BD,49.3,2016
+15,Barbados,BB,"Labor force, female",76536,109.1,BB,51.7,2016
+16,Belarus,BY,"Labor force, female",2536914,103.9,BY,53.5,2016
+17,Belgium,BE,"Labor force, female",2298840,170.4,BE,50.8,2016
+18,Belize,BZ,"Labor force, female",63619,87.7,BZ,50.1,2016
+19,Benin,BJ,"Labor force, female",2159727,50.7,BJ,50.1,2016
+20,Bermuda,BM,"Labor force, female",..,..,BM,..,2016
+21,Bhutan,BT,"Labor force, female",146461,89.7,BT,47.2,2016
+22,Bosnia and Herzegovina,BA,"Labor force, female",526559,..,BA,51,2016
+23,Botswana,BW,"Labor force, female",487091,..,BW,51.9,2016
+24,Brazil,BR,"Labor force, female",43939723,103.9,BR,50.8,2016
+25,Brunei Darussalam,BN,"Labor force, female",88902,95.3,BN,48,2016
+26,Bulgaria,BG,"Labor force, female",1512198,98.1,BG,51.4,2016
+27,Burkina Faso,BF,"Labor force, female",3033416,34.9,BF,50.2,2016
+28,Burundi,BI,"Labor force, female",2341604,47.4,BI,50.5,2016
+29,Cambodia,KH,"Labor force, female",4320484,..,KH,51.2,2016
+30,Cameroon,CM,"Labor force, female",4882394,55.4,CM,50,2016
+31,Canada,CA,"Labor force, female",9382488,113.4,CA,50.4,2016
+32,Cayman Islands,KY,"Labor force, female",..,..,KY,..,2016
+33,Central African Republic,CF,"Labor force, female",823737,11.8,CF,50.4,2016
+34,Chad,TD,"Labor force, female",2452556,14.2,TD,50.1,2016
+35,Chile,CL,"Labor force, female",3742749,102.1,CL,50.8,2016
+36,China,CN,"Labor force, female",344934644,..,CN,48.7,2016
+37,Colombia,CO,"Labor force, female",10987775,98.1,CO,51,2016
+38,Comoros,KM,"Labor force, female",85537,..,KM,49.6,2016
+39,Costa Rica,CR,"Labor force, female",864179,129.2,CR,50,2016
+40,Cote d'Ivoire,CI,"Labor force, female",3230195,37.7,CI,49.5,2016
+41,Croatia,HR,"Labor force, female",846531,101.1,HR,51.9,2016
+42,Cuba,CU,"Labor force, female",1982769,101.6,CU,50.3,2016
+43,Curacao,CW,"Labor force, female",..,..,CW,54.2,2016
+44,Cyprus,CY,"Labor force, female",278529,98.4,CY,49.9,2016
+45,Czech Republic,CZ,"Labor force, female",2390631,105.1,CZ,50.9,2016
+46,Denmark,DK,"Labor force, female",1433080,131,DK,50.3,2016
+47,Djibouti,DJ,"Labor force, female",154549,47.2,DJ,47.2,2016
+48,Dominica,DM,"Labor force, female",..,..,DM,..,2016
+49,Dominican Republic,DO,"Labor force, female",1884862,83.5,DO,50,2016
+50,Ecuador,EC,"Labor force, female",3299640,105.5,EC,50,2016
+51,El Salvador,SV,"Labor force, female",1151918,73.9,SV,53,2016
+52,Equatorial Guinea,GQ,"Labor force, female",173873,..,GQ,44.6,2016
+53,Eritrea,ER,"Labor force, female",..,..,ER,..,2016
+54,Estonia,EE,"Labor force, female",336438,115.5,EE,53.1,2016
+55,Ethiopia,ET,"Labor force, female",22321194,..,ET,50,2016
+56,Faroe Islands,FO,"Labor force, female",..,..,FO,..,2016
+57,Fiji,FJ,"Labor force, female",117016,..,FJ,49.2,2016
+58,Finland,FI,"Labor force, female",1291706,159.7,FI,50.8,2016
+59,France,FR,"Labor force, female",14442125,103.7,FR,51.6,2016
+60,French Polynesia,PF,"Labor force, female",50621,..,PF,49.3,2016
+61,Gabon,GA,"Labor force, female",265604,..,GA,49.1,2016
+62,Georgia,GE,"Labor force, female",923366,101.9,GE,52.2,2016
+63,Germany,DE,"Labor force, female",19963490,96.2,DE,50.8,2016
+64,Ghana,GH,"Labor force, female",5567136,67.7,GH,49.3,2016
+65,Gibraltar,GI,"Labor force, female",..,109.2,GI,..,2016
+66,Greece,GR,"Labor force, female",2132422,99.5,GR,50.9,2016
+67,Greenland,GL,"Labor force, female",..,..,GL,..,2016
+68,Grenada,GD,"Labor force, female",..,116.5,GD,49.6,2016
+69,Guam,GU,"Labor force, female",32180,..,GU,49.4,2016
+70,Guatemala,GT,"Labor force, female",2245582,51.9,GT,50.8,2016
+71,Guinea,GN,"Labor force, female",2193686,..,GN,52,2016
+72,Guinea-Bissau,GW,"Labor force, female",351909,..,GW,51.3,2016
+73,Guyana,GY,"Labor force, female",118479,..,GY,49.9,2016
+74,Haiti,HT,"Labor force, female",2256655,..,HT,50.6,2016
+75,Honduras,HN,"Labor force, female",1513584,55.9,HN,50.1,2016
+76,Hungary,HU,"Labor force, female",2140170,102.3,HU,52.5,2016
+77,Iceland,IS,"Labor force, female",98094,117.7,IS,49.8,2016
+78,India,IN,"Labor force, female",98383204,76,IN,48,2016
+79,Indonesia,ID,"Labor force, female",48301134,86.3,ID,49.6,2016
+80,Iraq,IQ,"Labor force, female",1624257,..,IQ,49.4,2016
+81,Ireland,IE,"Labor force, female",1056505,118.6,IE,50.5,2016
+82,Isle of Man,IM,"Labor force, female",..,..,IM,..,2016
+83,Israel,IL,"Labor force, female",1866583,106.2,IL,50.4,2016
+84,Italy,IT,"Labor force, female",10926218,101.9,IT,51.4,2016
+85,Jamaica,JM,"Labor force, female",661469,85.9,JM,50.3,2016
+86,Japan,JP,"Labor force, female",28819989,..,JP,51.1,2016
+87,Jordan,JO,"Labor force, female",429066,..,JO,49.4,2016
+88,Kazakhstan,KZ,"Labor force, female",4383667,114.8,KZ,51.6,2016
+89,Kenya,KE,"Labor force, female",10571254,..,KE,50.3,2016
+90,Kiribati,KI,"Labor force, female",..,..,KI,50.9,2016
+91,Kuwait,KW,"Labor force, female",602903,..,KW,40.7,2016
+92,Latvia,LV,"Labor force, female",504380,110.4,LV,54.1,2016
+93,Lebanon,LB,"Labor force, female",558084,..,LB,49.7,2016
+94,Lesotho,LS,"Labor force, female",425118,67.2,LS,50.8,2016
+95,Liberia,LR,"Labor force, female",969753,..,LR,49.8,2016
+96,Libya,LY,"Labor force, female",783647,..,LY,49.4,2016
+97,Liechtenstein,LI,"Labor force, female",..,101.9,LI,..,2016
+98,Lithuania,LT,"Labor force, female",748574,105,LT,53.9,2016
+99,Luxembourg,LU,"Labor force, female",127557,105.3,LU,49.7,2016
+100,Madagascar,MG,"Labor force, female",6160150,38.2,MG,50.1,2016
+101,Malawi,MW,"Labor force, female",3564580,36.9,MW,50.7,2016
+102,Malaysia,MY,"Labor force, female",5676916,87.6,MY,48.5,2016
+103,Maldives,MV,"Labor force, female",59618,..,MV,39.2,2016
+104,Mali,ML,"Labor force, female",2910676,36.6,ML,50,2016
+105,Malta,MT,"Labor force, female",85209,97.8,MT,49.9,2016
+106,Marshall Islands,MH,"Labor force, female",..,66.6,MH,..,2016
+107,Mauritania,MR,"Labor force, female",355983,32.2,MR,49.9,2016
+108,Mauritius,MU,"Labor force, female",233237,99.8,MU,50.5,2016
+109,Mexico,MX,"Labor force, female",20436618,106.1,MX,51.1,2016
+110,Monaco,MC,"Labor force, female",..,..,MC,..,2016
+111,Mongolia,MN,"Labor force, female",580724,..,MN,50.6,2016
+112,Montenegro,ME,"Labor force, female",120541,91.3,ME,50.6,2016
+113,Morocco,MA,"Labor force, female",2890850,..,MA,50.4,2016
+114,Mozambique,MZ,"Labor force, female",6262359,..,MZ,51.5,2016
+115,Myanmar,MM,"Labor force, female",10114315,63,MM,51.8,2016
+116,Namibia,NAM,"Labor force, female",432150,..,,51.6,2016
+117,Nauru,NR,"Labor force, female",..,83.6,NR,..,2016
+118,Nepal,NP,"Labor force, female",8595425,72.8,NP,54.4,2016
+119,Netherlands,NL,"Labor force, female",4170215,133.8,NL,50.3,2016
+120,New Caledonia,NC,"Labor force, female",61602,..,NC,49.6,2016
+121,New Zealand,NZ,"Labor force, female",1235469,117.8,NZ,50.8,2016
+122,Nicaragua,NI,"Labor force, female",1119781,..,NI,50.7,2016
+123,Niger,NE,"Labor force, female",3190915,19.8,NE,49.8,2016
+124,Nigeria,NG,"Labor force, female",24850828,39.8,NG,49.4,2016
+125,Northern Mariana Islands,MP,"Labor force, female",..,..,MP,..,2016
+126,Norway,NO,"Labor force, female",1303846,114.7,NO,49.6,2016
+127,Oman,OM,"Labor force, female",326941,104.1,OM,34.4,2016
+128,Pakistan,PK,"Labor force, female",14756670,36.6,PK,48.5,2016
+129,Palau,PW,"Labor force, female",..,..,PW,..,2016
+130,Panama,PA,"Labor force, female",751991,83.1,PA,49.9,2016
+131,Papua New Guinea,PG,"Labor force, female",1206786,39.9,PG,49,2016
+132,Paraguay,PY,"Labor force, female",1314173,..,PY,49.1,2016
+133,Peru,PE,"Labor force, female",7778369,100.6,PE,50.3,2016
+134,Philippines,PH,"Labor force, female",17204022,92.5,PH,49.7,2016
+135,Poland,PL,"Labor force, female",8204707,106.7,PL,51.5,2016
+136,Portugal,PT,"Labor force, female",2538200,116.4,PT,52.7,2016
+137,Puerto Rico,PR,"Labor force, female",481682,85.4,PR,52.2,2016
+138,Qatar,QA,"Labor force, female",270879,..,QA,24.2,2016
+139,Romania,RO,"Labor force, female",3838611,91,RO,51.3,2016
+140,Russian Federation,RU,"Labor force, female",36318820,101.5,RU,53.7,2016
+141,Rwanda,RW,"Labor force, female",3009099,39,RW,50.9,2016
+142,Samoa,WS,"Labor force, female",18162,98,WS,48.3,2016
+143,San Marino,SM,"Labor force, female",..,..,SM,..,2016
+144,Sao Tome and Principe,ST,"Labor force, female",24242,88.7,ST,50,2016
+145,Saudi Arabia,SA,"Labor force, female",2283954,107.6,SA,42.9,2016
+146,Senegal,SN,"Labor force, female",1560498,..,SN,51.3,2016
+147,Serbia,RS,"Labor force, female",1411622,96.9,RS,51,2016
+148,Seychelles,SC,"Labor force, female",..,86.6,SC,48.6,2016
+149,Sierra Leone,SL,"Labor force, female",1229826,39.8,SL,50.2,2016
+150,Singapore,SG,"Labor force, female",1460323,107.5,SG,47.7,2016
+151,Sint Maarten (Dutch part),SX,"Labor force, female",..,..,SX,..,2016
+152,Slovenia,SI,"Labor force, female",463548,117.5,SI,50.3,2016
+153,Solomon Islands,SB,"Labor force, female",150715,..,SB,49.2,2016
+154,Somalia,SO,"Labor force, female",812802,..,SO,50.1,2016
+155,South Africa,ZA,"Labor force, female",9901100,112.1,ZA,50.7,2016
+156,South Sudan,SS,"Labor force, female",2229049,..,SS,50,2016
+157,Spain,ES,"Labor force, female",10707425,126.4,ES,50.9,2016
+158,Sri Lanka,LK,"Labor force, female",3014591,99.3,LK,51.9,2016
+159,Sudan,SD,"Labor force, female",3403657,43.7,SD,50.1,2016
+160,Suriname,SR,"Labor force, female",79245,..,SR,49.7,2016
+161,Sweden,SE,"Labor force, female",2502105,153.3,SE,50,2016
+162,Switzerland,CH,"Labor force, female",2278042,100.6,CH,50.5,2016
+163,Syrian Arab Republic,SY,"Labor force, female",841605,..,SY,49.7,2016
+164,Tajikistan,TJ,"Labor force, female",878686,..,TJ,49.6,2016
+165,Thailand,TH,"Labor force, female",17646857,118.4,TH,51.2,2016
+166,Timor-Leste,TL,"Labor force, female",226696,79.3,TL,49.5,2016
+167,Togo,TG,"Labor force, female",1691608,..,TG,50.3,2016
+168,Tonga,TO,"Labor force, female",15104,..,TO,50,2016
+169,Trinidad and Tobago,TT,"Labor force, female",284384,..,TT,50.6,2016
+170,Tunisia,TN,"Labor force, female",1071643,99.3,TN,50.4,2016
+171,Turkey,TR,"Labor force, female",9945526,101.5,TR,50.8,2016
+172,Turkmenistan,TM,"Labor force, female",1040537,..,TM,50.8,2016
+173,Turks and Caicos Islands,TC,"Labor force, female",..,..,TC,..,2016
+174,Tuvalu,TV,"Labor force, female",..,76.8,TV,..,2016
+175,Uganda,UG,"Labor force, female",7199637,..,UG,50.9,2016
+176,Ukraine,UA,"Labor force, female",9805421,..,UA,53.7,2016
+177,United Arab Emirates,AE,"Labor force, female",1109020,93.3,AE,30.2,2016
+178,United Kingdom,GB,"Labor force, female",15728675,..,GB,50.7,2016
+179,United States,US,"Labor force, female",74561677,98.5,US,50.5,2016
+180,Uruguay,UY,"Labor force, female",795146,..,UY,51.8,2016
+181,Uzbekistan,UZ,"Labor force, female",6060183,92,UZ,50.2,2016
+182,Vanuatu,VU,"Labor force, female",51865,..,VU,49.3,2016
+183,Zambia,ZM,"Labor force, female",3194745,..,ZM,50.5,2016
+184,Zimbabwe,ZW,"Labor force, female",3405425,..,ZW,52.4,2016
+0,Afghanistan,AF,"Labor force, female",2078823,38.6,AF,48.6,2017
+1,Albania,AL,"Labor force, female",545571,94.7,AL,49,2017
+2,Algeria,DZ,"Labor force, female",2146036,..,DZ,49.5,2017
+3,American Samoa,AS,"Labor force, female",..,..,AS,..,2017
+4,Andorra,AD,"Labor force, female",..,..,AD,..,2017
+5,Angola,AO,"Labor force, female",6153426,..,AO,50.5,2017
+6,Antigua and Barbuda,AG,"Labor force, female",..,107.7,AG,51.8,2017
+7,Argentina,AR,"Labor force, female",8483371,111,AR,51.2,2017
+8,Armenia,AM,"Labor force, female",602468,..,AM,53,2017
+9,Aruba,AW,"Labor force, female",..,..,AW,52.5,2017
+10,Australia,AU,"Labor force, female",6018650,141.2,AU,50.2,2017
+11,Austria,AT,"Labor force, female",2128965,98.3,AT,50.9,2017
+12,Azerbaijan,AZ,"Labor force, female",2452941,..,AZ,50.2,2017
+13,Bahrain,BH,"Labor force, female",181818,104.1,BH,37.1,2017
+14,Bangladesh,BD,"Labor force, female",20354292,75.2,BD,49.4,2017
+15,Barbados,BB,"Labor force, female",76693,108.6,BB,51.7,2017
+16,Belarus,BY,"Labor force, female",2521598,102.7,BY,53.5,2017
+17,Belgium,BE,"Labor force, female",2309276,167.8,BE,50.7,2017
+18,Belize,BZ,"Labor force, female",64805,86.2,BZ,50.2,2017
+19,Benin,BJ,"Labor force, female",2228672,..,BJ,50.1,2017
+20,Bermuda,BM,"Labor force, female",..,..,BM,..,2017
+21,Bhutan,BT,"Labor force, female",149336,92.8,BT,47.1,2017
+22,Bosnia and Herzegovina,BA,"Labor force, female",526768,..,BA,51,2017
+23,Botswana,BW,"Labor force, female",499297,..,BW,51.8,2017
+24,Brazil,BR,"Labor force, female",45230994,102.4,BR,50.8,2017
+25,Brunei Darussalam,BN,"Labor force, female",90634,94.3,BN,48,2017
+26,Bulgaria,BG,"Labor force, female",1557814,96.8,BG,51.4,2017
+27,Burkina Faso,BF,"Labor force, female",3132420,37.6,BF,50.1,2017
+28,Burundi,BI,"Labor force, female",2420865,50.4,BI,50.4,2017
+29,Cambodia,KH,"Labor force, female",4386695,..,KH,51.2,2017
+30,Cameroon,CM,"Labor force, female",5032738,..,CM,50,2017
+31,Canada,CA,"Labor force, female",9532683,114.5,CA,50.4,2017
+32,Cayman Islands,KY,"Labor force, female",..,..,KY,..,2017
+33,Central African Republic,CF,"Labor force, female",838045,13.8,CF,50.4,2017
+34,Chad,TD,"Labor force, female",2542638,..,TD,50.1,2017
+35,Chile,CL,"Labor force, female",3856035,102,CL,50.7,2017
+36,China,CN,"Labor force, female",344437404,..,CN,48.7,2017
+37,Colombia,CO,"Labor force, female",11164098,98.5,CO,51,2017
+38,Comoros,KM,"Labor force, female",88368,57.2,KM,49.6,2017
+39,Costa Rica,CR,"Labor force, female",889998,133.5,CR,50,2017
+40,Cote d'Ivoire,CI,"Labor force, female",3338334,41.3,CI,49.5,2017
+41,Croatia,HR,"Labor force, female",840895,101.8,HR,51.9,2017
+42,Cuba,CU,"Labor force, female",1971690,102.2,CU,50.3,2017
+43,Curacao,CW,"Labor force, female",..,..,CW,54.1,2017
+44,Cyprus,CY,"Labor force, female",282297,99.5,CY,49.9,2017
+45,Czech Republic,CZ,"Labor force, female",2413112,103.9,CZ,50.8,2017
+46,Denmark,DK,"Labor force, female",1414828,129.8,DK,50.3,2017
+47,Djibouti,DJ,"Labor force, female",158043,47.6,DJ,47.3,2017
+48,Dominica,DM,"Labor force, female",..,..,DM,..,2017
+49,Dominican Republic,DO,"Labor force, female",1923870,83,DO,50,2017
+50,Ecuador,EC,"Labor force, female",3424609,103.6,EC,50,2017
+51,El Salvador,SV,"Labor force, female",1148770,71.2,SV,53.1,2017
+52,Equatorial Guinea,GQ,"Labor force, female",180150,..,GQ,44.5,2017
+53,Eritrea,ER,"Labor force, female",..,44.9,ER,..,2017
+54,Estonia,EE,"Labor force, female",339645,118.9,EE,53,2017
+55,Ethiopia,ET,"Labor force, female",23098500,..,ET,50,2017
+56,Faroe Islands,FO,"Labor force, female",..,..,FO,..,2017
+57,Fiji,FJ,"Labor force, female",117546,..,FJ,49.3,2017
+58,Finland,FI,"Labor force, female",1299505,161.5,FI,50.7,2017
+59,France,FR,"Labor force, female",14446751,104.1,FR,51.6,2017
+60,French Polynesia,PF,"Labor force, female",50785,..,PF,49.3,2017
+61,Gabon,GA,"Labor force, female",273506,..,GA,49.1,2017
+62,Georgia,GE,"Labor force, female",919973,104,GE,52.3,2017
+63,Germany,DE,"Labor force, female",20088790,95.2,DE,50.7,2017
+64,Ghana,GH,"Labor force, female",5716758,68.1,GH,49.3,2017
+65,Gibraltar,GI,"Labor force, female",..,115.7,GI,..,2017
+66,Greece,GR,"Labor force, female",2118437,101.4,GR,50.9,2017
+67,Greenland,GL,"Labor force, female",..,..,GL,..,2017
+68,Grenada,GD,"Labor force, female",..,116.8,GD,49.6,2017
+69,Guam,GU,"Labor force, female",32482,..,GU,49.5,2017
+70,Guatemala,GT,"Labor force, female",2257867,51.5,GT,50.8,2017
+71,Guinea,GN,"Labor force, female",2262570,..,GN,51.9,2017
+72,Guinea-Bissau,GW,"Labor force, female",361443,..,GW,51.2,2017
+73,Guyana,GY,"Labor force, female",121440,..,GY,49.9,2017
+74,Haiti,HT,"Labor force, female",2304107,..,HT,50.6,2017
+75,Honduras,HN,"Labor force, female",1540311,55.9,HN,50.1,2017
+76,Hungary,HU,"Labor force, female",2146347,103.6,HU,52.4,2017
+77,Iceland,IS,"Labor force, female",99443,116.9,IS,49.8,2017
+78,India,IN,"Labor force, female",98472044,74.1,IN,48,2017
+79,Indonesia,ID,"Labor force, female",50293556,88.2,ID,49.6,2017
+80,Iraq,IQ,"Labor force, female",1294810,..,IQ,49.4,2017
+81,Ireland,IE,"Labor force, female",1070669,124.3,IE,50.5,2017
+82,Isle of Man,IM,"Labor force, female",..,..,IM,..,2017
+83,Israel,IL,"Labor force, female",1895303,106,IL,50.3,2017
+84,Italy,IT,"Labor force, female",11050974,100.9,IT,51.4,2017
+85,Jamaica,JM,"Labor force, female",680044,83.6,JM,50.3,2017
+86,Japan,JP,"Labor force, female",29272280,..,JP,51.2,2017
+87,Jordan,JO,"Labor force, female",447569,63.6,JO,49.4,2017
+88,Kazakhstan,KZ,"Labor force, female",4328749,114.7,KZ,51.5,2017
+89,Kenya,KE,"Labor force, female",10934552,..,KE,50.3,2017
+90,Kiribati,KI,"Labor force, female",..,..,KI,50.9,2017
+91,Kuwait,KW,"Labor force, female",610288,..,KW,40.1,2017
+92,Latvia,LV,"Labor force, female",500726,110.2,LV,54.1,2017
+93,Lebanon,LB,"Labor force, female",572255,..,LB,49.7,2017
+94,Lesotho,LS,"Labor force, female",430789,71.3,LS,50.7,2017
+95,Liberia,LR,"Labor force, female",998369,..,LR,49.8,2017
+96,Libya,LY,"Labor force, female",797225,..,LY,49.5,2017
+97,Liechtenstein,LI,"Labor force, female",..,105.1,LI,..,2017
+98,Lithuania,LT,"Labor force, female",740391,106,LT,53.8,2017
+99,Luxembourg,LU,"Labor force, female",134272,104.8,LU,49.6,2017
+100,Madagascar,MG,"Labor force, female",6356471,37.1,MG,50.1,2017
+101,Malawi,MW,"Labor force, female",3684684,38.6,MW,50.7,2017
+102,Malaysia,MY,"Labor force, female",5784986,88,MY,48.6,2017
+103,Maldives,MV,"Labor force, female",59971,..,MV,38.2,2017
+104,Mali,ML,"Labor force, female",3004818,37.1,ML,50,2017
+105,Malta,MT,"Labor force, female",89579,104.7,MT,49.9,2017
+106,Marshall Islands,MH,"Labor force, female",..,..,MH,..,2017
+107,Mauritania,MR,"Labor force, female",368495,32.6,MR,49.8,2017
+108,Mauritius,MU,"Labor force, female",236792,99.1,MU,50.5,2017
+109,Mexico,MX,"Labor force, female",20624766,108.2,MX,51.1,2017
+110,Monaco,MC,"Labor force, female",..,..,MC,..,2017
+111,Mongolia,MN,"Labor force, female",595470,..,MN,50.6,2017
+112,Montenegro,ME,"Labor force, female",119806,90.5,ME,50.6,2017
+113,Morocco,MA,"Labor force, female",2835103,75.3,MA,50.4,2017
+114,Mozambique,MZ,"Labor force, female",6462613,33.4,MZ,51.5,2017
+115,Myanmar,MM,"Labor force, female",9856527,67.1,MM,51.8,2017
+116,Namibia,NAM,"Labor force, female",440210,..,,51.6,2017
+117,Nauru,NR,"Labor force, female",..,..,NR,..,2017
+118,Nepal,NP,"Labor force, female",8882623,76.8,NP,54.6,2017
+119,Netherlands,NL,"Labor force, female",4207684,136.5,NL,50.2,2017
+120,New Caledonia,NC,"Labor force, female",62517,..,NC,49.6,2017
+121,New Zealand,NZ,"Labor force, female",1277773,118.2,NZ,50.8,2017
+122,Nicaragua,NI,"Labor force, female",1147834,..,NI,50.7,2017
+123,Niger,NE,"Labor force, female",3313994,20.7,NE,49.8,2017
+124,Nigeria,NG,"Labor force, female",25563509,..,NG,49.3,2017
+125,Northern Mariana Islands,MP,"Labor force, female",..,..,MP,..,2017
+126,Norway,NO,"Labor force, female",1302157,114.2,NO,49.6,2017
+127,Oman,OM,"Labor force, female",338416,102.6,OM,34.1,2017
+128,Pakistan,PK,"Labor force, female",14633483,36.1,PK,48.5,2017
+129,Palau,PW,"Labor force, female",..,..,PW,..,2017
+130,Panama,PA,"Labor force, female",764270,78.3,PA,49.9,2017
+131,Papua New Guinea,PG,"Labor force, female",1237051,..,PG,49,2017
+132,Paraguay,PY,"Labor force, female",1344616,..,PY,49.1,2017
+133,Peru,PE,"Labor force, female",8150917,102.5,PE,50.3,2017
+134,Philippines,PH,"Labor force, female",16436994,90.6,PH,49.7,2017
+135,Poland,PL,"Labor force, female",8214461,108.1,PL,51.5,2017
+136,Portugal,PT,"Labor force, female",2565919,118.7,PT,52.7,2017
+137,Puerto Rico,PR,"Labor force, female",472330,..,PR,52.3,2017
+138,Qatar,QA,"Labor force, female",276795,..,QA,24.3,2017
+139,Romania,RO,"Labor force, female",3942145,91.4,RO,51.3,2017
+140,Russian Federation,RU,"Labor force, female",35946506,102.1,RU,53.7,2017
+141,Rwanda,RW,"Labor force, female",3099606,41.1,RW,50.9,2017
+142,Samoa,WS,"Labor force, female",18197,..,WS,48.3,2017
+143,San Marino,SM,"Labor force, female",..,..,SM,..,2017
+144,Sao Tome and Principe,ST,"Labor force, female",24811,95.9,ST,50,2017
+145,Saudi Arabia,SA,"Labor force, female",2258587,102,SA,42.7,2017
+146,Senegal,SN,"Labor force, female",1611360,48.1,SN,51.3,2017
+147,Serbia,RS,"Labor force, female",1432943,95.9,RS,51,2017
+148,Seychelles,SC,"Labor force, female",..,85.9,SC,48.6,2017
+149,Sierra Leone,SL,"Labor force, female",1264867,41.1,SL,50.1,2017
+150,Singapore,SG,"Labor force, female",1454107,107,SG,47.7,2017
+151,Sint Maarten (Dutch part),SX,"Labor force, female",..,..,SX,..,2017
+152,Slovenia,SI,"Labor force, female",477862,117.1,SI,50.3,2017
+153,Solomon Islands,SB,"Labor force, female",154826,..,SB,49.2,2017
+154,Somalia,SO,"Labor force, female",846355,..,SO,50.1,2017
+155,South Africa,ZA,"Labor force, female",10250032,109,ZA,50.7,2017
+156,South Sudan,SS,"Labor force, female",2255014,..,SS,50,2017
+157,Spain,ES,"Labor force, female",10666289,126.9,ES,50.9,2017
+158,Sri Lanka,LK,"Labor force, female",3044897,100.5,LK,51.9,2017
+159,Sudan,SD,"Labor force, female",3525120,47,SD,50.1,2017
+160,Suriname,SR,"Labor force, female",80389,..,SR,49.7,2017
+161,Sweden,SE,"Labor force, female",2542284,157.9,SE,50,2017
+162,Switzerland,CH,"Labor force, female",2286576,100.2,CH,50.4,2017
+163,Syrian Arab Republic,SY,"Labor force, female",841749,..,SY,49.7,2017
+164,Tajikistan,TJ,"Labor force, female",889743,..,TJ,49.6,2017
+165,Thailand,TH,"Labor force, female",17540184,114.4,TH,51.2,2017
+166,Timor-Leste,TL,"Labor force, female",235409,83.8,TL,49.5,2017
+167,Togo,TG,"Labor force, female",1740113,52.1,TG,50.3,2017
+168,Tonga,TO,"Labor force, female",15303,..,TO,50,2017
+169,Trinidad and Tobago,TT,"Labor force, female",283079,..,TT,50.6,2017
+170,Tunisia,TN,"Labor force, female",1071829,..,TN,50.4,2017
+171,Turkey,TR,"Labor force, female",10467390,103.4,TR,50.7,2017
+172,Turkmenistan,TM,"Labor force, female",1055983,..,TM,50.8,2017
+173,Turks and Caicos Islands,TC,"Labor force, female",..,..,TC,..,2017
+174,Tuvalu,TV,"Labor force, female",..,..,TV,..,2017
+175,Uganda,UG,"Labor force, female",7523856,..,UG,50.8,2017
+176,Ukraine,UA,"Labor force, female",9729562,..,UA,53.7,2017
+177,United Arab Emirates,AE,"Labor force, female",1159898,100.4,AE,30.5,2017
+178,United Kingdom,GB,"Labor force, female",15904757,127.7,GB,50.7,2017
+179,United States,US,"Labor force, female",75604511,98.7,US,50.5,2017
+180,Uruguay,UY,"Labor force, female",794511,126.6,UY,51.7,2017
+181,Uzbekistan,UZ,"Labor force, female",6157313,92.7,UZ,50.2,2017
+182,Vanuatu,VU,"Labor force, female",53206,..,VU,49.3,2017
+183,Zambia,ZM,"Labor force, female",3317415,..,ZM,50.5,2017
+184,Zimbabwe,ZW,"Labor force, female",3458756,..,ZW,52.4,2017
+0,Afghanistan,AF,"Labor force, female",2198288,40,AF,48.6,2018
+1,Albania,AL,"Labor force, female",546543,95.7,AL,49.1,2018
+2,Algeria,DZ,"Labor force, female",2138677,..,DZ,49.5,2018
+3,American Samoa,AS,"Labor force, female",..,..,AS,..,2018
+4,Andorra,AD,"Labor force, female",..,..,AD,..,2018
+5,Angola,AO,"Labor force, female",6379611,..,AO,50.5,2018
+6,Antigua and Barbuda,AG,"Labor force, female",..,109.1,AG,51.8,2018
+7,Argentina,AR,"Labor force, female",8837952,..,AR,51.2,2018
+8,Armenia,AM,"Labor force, female",601826,84.8,AM,53,2018
+9,Aruba,AW,"Labor force, female",..,..,AW,52.5,2018
+10,Australia,AU,"Labor force, female",6163411,..,AU,50.2,2018
+11,Austria,AT,"Labor force, female",2136138,..,AT,50.8,2018
+12,Azerbaijan,AZ,"Labor force, female",2482408,94.5,AZ,50.1,2018
+13,Bahrain,BH,"Labor force, female",189831,101.7,BH,36.3,2018
+14,Bangladesh,BD,"Labor force, female",20873332,78.3,BD,49.4,2018
+15,Barbados,BB,"Labor force, female",76680,105.8,BB,51.7,2018
+16,Belarus,BY,"Labor force, female",2494353,101.7,BY,53.5,2018
+17,Belgium,BE,"Labor force, female",2353059,..,BE,50.6,2018
+18,Belize,BZ,"Labor force, female",67099,87.1,BZ,50.2,2018
+19,Benin,BJ,"Labor force, female",2300623,..,BJ,50.1,2018
+20,Bermuda,BM,"Labor force, female",..,..,BM,..,2018
+21,Bhutan,BT,"Labor force, female",151835,95.7,BT,47,2018
+22,Bosnia and Herzegovina,BA,"Labor force, female",517320,..,BA,51,2018
+23,Botswana,BW,"Labor force, female",512326,..,BW,51.7,2018
+24,Brazil,BR,"Labor force, female",45991715,..,BR,50.8,2018
+25,Brunei Darussalam,BN,"Labor force, female",91649,94.6,BN,48,2018
+26,Bulgaria,BG,"Labor force, female",1536082,..,BG,51.4,2018
+27,Burkina Faso,BF,"Labor force, female",3235625,40.7,BF,50.1,2018
+28,Burundi,BI,"Labor force, female",2502563,51.1,BI,50.4,2018
+29,Cambodia,KH,"Labor force, female",4449986,..,KH,51.2,2018
+30,Cameroon,CM,"Labor force, female",5188884,..,CM,50,2018
+31,Canada,CA,"Labor force, female",9636638,..,CA,50.4,2018
+32,Cayman Islands,KY,"Labor force, female",..,..,KY,..,2018
+33,Central African Republic,CF,"Labor force, female",855274,..,CF,50.4,2018
+34,Chad,TD,"Labor force, female",2635047,..,TD,50.1,2018
+35,Chile,CL,"Labor force, female",3965512,..,CL,50.7,2018
+36,China,CN,"Labor force, female",343258496,..,CN,48.7,2018
+37,Colombia,CO,"Labor force, female",11262448,100.1,CO,50.9,2018
+38,Comoros,KM,"Labor force, female",91343,61.4,KM,49.6,2018
+39,Costa Rica,CR,"Labor force, female",951087,137.7,CR,50,2018
+40,Cote d'Ivoire,CI,"Labor force, female",3452153,44.3,CI,49.5,2018
+41,Croatia,HR,"Labor force, female",833840,..,HR,51.9,2018
+42,Cuba,CU,"Labor force, female",1966749,101.9,CU,50.3,2018
+43,Curacao,CW,"Labor force, female",..,..,CW,54.1,2018
+44,Cyprus,CY,"Labor force, female",287947,..,CY,50,2018
+45,Czech Republic,CZ,"Labor force, female",2437583,..,CZ,50.8,2018
+46,Denmark,DK,"Labor force, female",1427710,..,DK,50.3,2018
+47,Djibouti,DJ,"Labor force, female",161830,51.5,DJ,47.4,2018
+48,Dominica,DM,"Labor force, female",..,..,DM,..,2018
+49,Dominican Republic,DO,"Labor force, female",1976861,83,DO,50,2018
+50,Ecuador,EC,"Labor force, female",3415131,102.8,EC,50,2018
+51,El Salvador,SV,"Labor force, female",1154218,71.4,SV,53.1,2018
+52,Equatorial Guinea,GQ,"Labor force, female",187018,..,GQ,44.5,2018
+53,Eritrea,ER,"Labor force, female",..,45.4,ER,..,2018
+54,Estonia,EE,"Labor force, female",340746,..,EE,52.9,2018
+55,Ethiopia,ET,"Labor force, female",23900377,..,ET,50,2018
+56,Faroe Islands,FO,"Labor force, female",..,..,FO,..,2018
+57,Fiji,FJ,"Labor force, female",118245,..,FJ,49.3,2018
+58,Finland,FI,"Labor force, female",1316875,..,FI,50.7,2018
+59,France,FR,"Labor force, female",14576574,..,FR,51.6,2018
+60,French Polynesia,PF,"Labor force, female",50841,..,PF,49.3,2018
+61,Gabon,GA,"Labor force, female",281050,..,GA,49.1,2018
+62,Georgia,GE,"Labor force, female",916268,106.8,GE,52.3,2018
+63,Germany,DE,"Labor force, female",20176576,..,DE,50.7,2018
+64,Ghana,GH,"Labor force, female",5871180,70.8,GH,49.3,2018
+65,Gibraltar,GI,"Labor force, female",..,..,GI,..,2018
+66,Greece,GR,"Labor force, female",2100705,..,GR,50.9,2018
+67,Greenland,GL,"Labor force, female",..,..,GL,..,2018
+68,Grenada,GD,"Labor force, female",..,122.1,GD,49.6,2018
+69,Guam,GU,"Labor force, female",32809,..,GU,49.5,2018
+70,Guatemala,GT,"Labor force, female",2334776,51.4,GT,50.8,2018
+71,Guinea,GN,"Labor force, female",2336408,..,GN,51.8,2018
+72,Guinea-Bissau,GW,"Labor force, female",371351,..,GW,51.2,2018
+73,Guyana,GY,"Labor force, female",122791,..,GY,49.8,2018
+74,Haiti,HT,"Labor force, female",2353413,..,HT,50.7,2018
+75,Honduras,HN,"Labor force, female",1716851,..,HN,50,2018
+76,Hungary,HU,"Labor force, female",2150922,..,HU,52.4,2018
+77,Iceland,IS,"Labor force, female",100550,..,IS,49.8,2018
+78,India,IN,"Labor force, female",98549313,76.6,IN,48,2018
+79,Indonesia,ID,"Labor force, female",52057728,90,ID,49.6,2018
+80,Iraq,IQ,"Labor force, female",1348295,..,IQ,49.4,2018
+81,Ireland,IE,"Labor force, female",1092596,..,IE,50.4,2018
+82,Isle of Man,IM,"Labor force, female",..,..,IM,..,2018
+83,Israel,IL,"Labor force, female",1946737,..,IL,50.3,2018
+84,Italy,IT,"Labor force, female",11080890,..,IT,51.4,2018
+85,Jamaica,JM,"Labor force, female",676149,83.6,JM,50.3,2018
+86,Japan,JP,"Labor force, female",30033840,..,JP,51.2,2018
+87,Jordan,JO,"Labor force, female",465300,64.2,JO,49.4,2018
+88,Kazakhstan,KZ,"Labor force, female",4339825,114.7,KZ,51.5,2018
+89,Kenya,KE,"Labor force, female",11306959,..,KE,50.3,2018
+90,Kiribati,KI,"Labor force, female",..,..,KI,50.8,2018
+91,Kuwait,KW,"Labor force, female",608638,..,KW,39.5,2018
+92,Latvia,LV,"Labor force, female",499563,..,LV,54,2018
+93,Lebanon,LB,"Labor force, female",582281,..,LB,49.7,2018
+94,Lesotho,LS,"Labor force, female",436581,..,LS,50.7,2018
+95,Liberia,LR,"Labor force, female",1027926,..,LR,49.8,2018
+96,Libya,LY,"Labor force, female",811455,..,LY,49.5,2018
+97,Liechtenstein,LI,"Labor force, female",..,..,LI,..,2018
+98,Lithuania,LT,"Labor force, female",739807,..,LT,53.8,2018
+99,Luxembourg,LU,"Labor force, female",139001,..,LU,49.5,2018
+100,Madagascar,MG,"Labor force, female",6556887,37.1,MG,50.1,2018
+101,Malawi,MW,"Labor force, female",3808011,39.9,MW,50.7,2018
+102,Malaysia,MY,"Labor force, female",5891599,85.4,MY,48.6,2018
+103,Maldives,MV,"Labor force, female",59195,..,MV,37.3,2018
+104,Mali,ML,"Labor force, female",3105150,37,ML,49.9,2018
+105,Malta,MT,"Labor force, female",96118,..,MT,49.9,2018
+106,Marshall Islands,MH,"Labor force, female",..,..,MH,..,2018
+107,Mauritania,MR,"Labor force, female",381701,37.1,MR,49.8,2018
+108,Mauritius,MU,"Labor force, female",239303,97.8,MU,50.6,2018
+109,Mexico,MX,"Labor force, female",21209778,..,MX,51.1,2018
+110,Monaco,MC,"Labor force, female",..,..,MC,..,2018
+111,Mongolia,MN,"Labor force, female",603739,..,MN,50.7,2018
+112,Montenegro,ME,"Labor force, female",120834,90.5,ME,50.6,2018
+113,Morocco,MA,"Labor force, female",2888997,76.6,MA,50.4,2018
+114,Mozambique,MZ,"Labor force, female",6673549,..,MZ,51.5,2018
+115,Myanmar,MM,"Labor force, female",9916965,71.3,MM,51.8,2018
+116,Namibia,NAM,"Labor force, female",449416,..,,51.6,2018
+117,Nauru,NR,"Labor force, female",..,..,NR,..,2018
+118,Nepal,NP,"Labor force, female",9158413,..,NP,54.5,2018
+119,Netherlands,NL,"Labor force, female",4263091,..,NL,50.2,2018
+120,New Caledonia,NC,"Labor force, female",63441,..,NC,49.7,2018
+121,New Zealand,NZ,"Labor force, female",1295331,..,NZ,50.8,2018
+122,Nicaragua,NI,"Labor force, female",1151308,..,NI,50.7,2018
+123,Niger,NE,"Labor force, female",3444570,..,NE,49.8,2018
+124,Nigeria,NG,"Labor force, female",26318200,..,NG,49.3,2018
+125,Northern Mariana Islands,MP,"Labor force, female",..,..,MP,..,2018
+126,Norway,NO,"Labor force, female",1315599,..,NO,49.5,2018
+127,Oman,OM,"Labor force, female",346722,102.5,OM,34,2018
+128,Pakistan,PK,"Labor force, female",14505644,39.1,PK,48.5,2018
+129,Palau,PW,"Labor force, female",..,..,PW,..,2018
+130,Panama,PA,"Labor force, female",817994,..,PA,49.9,2018
+131,Papua New Guinea,PG,"Labor force, female",1268938,..,PG,49,2018
+132,Paraguay,PY,"Labor force, female",1426898,..,PY,49.2,2018
+133,Peru,PE,"Labor force, female",8403699,103.6,PE,50.3,2018
+134,Philippines,PH,"Labor force, female",17002512,..,PH,49.7,2018
+135,Poland,PL,"Labor force, female",8209550,..,PL,51.5,2018
+136,Portugal,PT,"Labor force, female",2587564,..,PT,52.7,2018
+137,Puerto Rico,PR,"Labor force, female",455176,..,PR,52.5,2018
+138,Qatar,QA,"Labor force, female",282799,..,QA,24.5,2018
+139,Romania,RO,"Labor force, female",3899819,..,RO,51.3,2018
+140,Russian Federation,RU,"Labor force, female",35865476,..,RU,53.7,2018
+141,Rwanda,RW,"Labor force, female",3191306,43.3,RW,50.9,2018
+142,Samoa,WS,"Labor force, female",18272,..,WS,48.3,2018
+143,San Marino,SM,"Labor force, female",..,63.8,SM,..,2018
+144,Sao Tome and Principe,ST,"Labor force, female",25418,..,ST,50,2018
+145,Saudi Arabia,SA,"Labor force, female",2229048,106.8,SA,42.4,2018
+146,Senegal,SN,"Labor force, female",1665343,45.7,SN,51.3,2018
+147,Serbia,RS,"Labor force, female",1441379,95.6,RS,51,2018
+148,Seychelles,SC,"Labor force, female",..,84.2,SC,48.7,2018
+149,Sierra Leone,SL,"Labor force, female",1301108,..,SL,50.1,2018
+150,Singapore,SG,"Labor force, female",1458788,..,SG,47.7,2018
+151,Sint Maarten (Dutch part),SX,"Labor force, female",..,..,SX,..,2018
+152,Slovenia,SI,"Labor force, female",479353,..,SI,50.2,2018
+153,Solomon Islands,SB,"Labor force, female",159118,..,SB,49.2,2018
+154,Somalia,SO,"Labor force, female",880926,..,SO,50.1,2018
+155,South Africa,ZA,"Labor force, female",10391098,..,ZA,50.7,2018
+156,South Sudan,SS,"Labor force, female",2279545,..,SS,50,2018
+157,Spain,ES,"Labor force, female",10657423,..,ES,50.9,2018
+158,Sri Lanka,LK,"Labor force, female",3082405,102.6,LK,52,2018
+159,Sudan,SD,"Labor force, female",3658862,..,SD,50,2018
+160,Suriname,SR,"Labor force, female",81587,..,SR,49.7,2018
+161,Sweden,SE,"Labor force, female",2581717,..,SE,49.9,2018
+162,Switzerland,CH,"Labor force, female",2312182,..,CH,50.4,2018
+163,Syrian Arab Republic,SY,"Labor force, female",848180,..,SY,49.8,2018
+164,Tajikistan,TJ,"Labor force, female",901421,..,TJ,49.6,2018
+165,Thailand,TH,"Labor force, female",17738082,116.5,TH,51.3,2018
+166,Timor-Leste,TL,"Labor force, female",242371,87,TL,49.5,2018
+167,Togo,TG,"Labor force, female",1790135,..,TG,50.3,2018
+168,Tonga,TO,"Labor force, female",15564,..,TO,50,2018
+169,Trinidad and Tobago,TT,"Labor force, female",283264,..,TT,50.6,2018
+170,Tunisia,TN,"Labor force, female",1072699,..,TN,50.4,2018
+171,Turkey,TR,"Labor force, female",10837337,..,TR,50.7,2018
+172,Turkmenistan,TM,"Labor force, female",1072831,..,TM,50.8,2018
+173,Turks and Caicos Islands,TC,"Labor force, female",..,..,TC,..,2018
+174,Tuvalu,TV,"Labor force, female",..,71.2,TV,..,2018
+175,Uganda,UG,"Labor force, female",7862891,..,UG,50.8,2018
+176,Ukraine,UA,"Labor force, female",9645608,..,UA,53.7,2018
+177,United Arab Emirates,AE,"Labor force, female",1179643,..,AE,30.6,2018
+178,United Kingdom,GB,"Labor force, female",16070172,..,GB,50.6,2018
+179,United States,US,"Labor force, female",76211010,..,US,50.5,2018
+180,Uruguay,UY,"Labor force, female",796050,..,UY,51.7,2018
+181,Uzbekistan,UZ,"Labor force, female",6251516,..,UZ,50.1,2018
+182,Vanuatu,VU,"Labor force, female",54544,..,VU,49.3,2018
+183,Zambia,ZM,"Labor force, female",3446134,..,ZM,50.5,2018
+184,Zimbabwe,ZW,"Labor force, female",3517299,..,ZW,52.4,2018
+0,Afghanistan,AF,"Labor force, female",2294901,..,AF,..,2019
+1,Albania,AL,"Labor force, female",547465,..,AL,..,2019
+2,Algeria,DZ,"Labor force, female",2168806,..,DZ,..,2019
+3,American Samoa,AS,"Labor force, female",..,..,AS,..,2019
+4,Andorra,AD,"Labor force, female",..,..,AD,..,2019
+5,Angola,AO,"Labor force, female",6615457,..,AO,..,2019
+6,Antigua and Barbuda,AG,"Labor force, female",..,..,AG,..,2019
+7,Argentina,AR,"Labor force, female",8916752,..,AR,..,2019
+8,Armenia,AM,"Labor force, female",601606,..,AM,..,2019
+9,Aruba,AW,"Labor force, female",..,..,AW,..,2019
+10,Australia,AU,"Labor force, female",6221151,..,AU,..,2019
+11,Austria,AT,"Labor force, female",2143997,..,AT,..,2019
+12,Azerbaijan,AZ,"Labor force, female",2491418,..,AZ,..,2019
+13,Bahrain,BH,"Labor force, female",196475,..,BH,..,2019
+14,Bangladesh,BD,"Labor force, female",21344448,..,BD,..,2019
+15,Barbados,BB,"Labor force, female",76499,..,BB,..,2019
+16,Belarus,BY,"Labor force, female",2470032,..,BY,..,2019
+17,Belgium,BE,"Labor force, female",2356516,..,BE,..,2019
+18,Belize,BZ,"Labor force, female",69516,..,BZ,..,2019
+19,Benin,BJ,"Labor force, female",2378004,..,BJ,..,2019
+20,Bermuda,BM,"Labor force, female",..,..,BM,..,2019
+21,Bhutan,BT,"Labor force, female",154807,..,BT,..,2019
+22,Bosnia and Herzegovina,BA,"Labor force, female",512404,..,BA,..,2019
+23,Botswana,BW,"Labor force, female",526269,..,BW,..,2019
+24,Brazil,BR,"Labor force, female",46417226,..,BR,..,2019
+25,Brunei Darussalam,BN,"Labor force, female",93037,..,BN,..,2019
+26,Bulgaria,BG,"Labor force, female",1520500,..,BG,..,2019
+27,Burkina Faso,BF,"Labor force, female",3332302,..,BF,..,2019
+28,Burundi,BI,"Labor force, female",2584344,..,BI,..,2019
+29,Cambodia,KH,"Labor force, female",4523360,..,KH,..,2019
+30,Cameroon,CM,"Labor force, female",5335944,..,CM,..,2019
+31,Canada,CA,"Labor force, female",9699083,..,CA,..,2019
+32,Cayman Islands,KY,"Labor force, female",..,..,KY,..,2019
+33,Central African Republic,CF,"Labor force, female",875095,..,CF,..,2019
+34,Chad,TD,"Labor force, female",2730409,..,TD,..,2019
+35,Chile,CL,"Labor force, female",4038172,..,CL,..,2019
+36,China,CN,"Labor force, female",341310579,..,CN,..,2019
+37,Colombia,CO,"Labor force, female",11504783,..,CO,..,2019
+38,Comoros,KM,"Labor force, female",94013,..,KM,..,2019
+39,Costa Rica,CR,"Labor force, female",965307,..,CR,..,2019
+40,Cote d'Ivoire,CI,"Labor force, female",3565544,..,CI,..,2019
+41,Croatia,HR,"Labor force, female",825754,..,HR,..,2019
+42,Cuba,CU,"Labor force, female",1962554,..,CU,..,2019
+43,Curacao,CW,"Labor force, female",..,..,CW,..,2019
+44,Cyprus,CY,"Labor force, female",290910,..,CY,..,2019
+45,Czech Republic,CZ,"Labor force, female",2432018,..,CZ,..,2019
+46,Denmark,DK,"Labor force, female",1432318,..,DK,..,2019
+47,Djibouti,DJ,"Labor force, female",165315,52.9,DJ,..,2019
+48,Dominica,DM,"Labor force, female",..,..,DM,..,2019
+49,Dominican Republic,DO,"Labor force, female",2013485,..,DO,..,2019
+50,Ecuador,EC,"Labor force, female",3494368,..,EC,..,2019
+51,El Salvador,SV,"Labor force, female",1170162,..,SV,..,2019
+52,Equatorial Guinea,GQ,"Labor force, female",194451,..,GQ,..,2019
+53,Eritrea,ER,"Labor force, female",..,..,ER,..,2019
+54,Estonia,EE,"Labor force, female",338044,..,EE,..,2019
+55,Ethiopia,ET,"Labor force, female",24745211,..,ET,..,2019
+56,Faroe Islands,FO,"Labor force, female",..,..,FO,..,2019
+57,Fiji,FJ,"Labor force, female",120042,..,FJ,..,2019
+58,Finland,FI,"Labor force, female",1315235,..,FI,..,2019
+59,France,FR,"Labor force, female",14611500,..,FR,..,2019
+60,French Polynesia,PF,"Labor force, female",50977,..,PF,..,2019
+61,Gabon,GA,"Labor force, female",289883,..,GA,..,2019
+62,Georgia,GE,"Labor force, female",911877,..,GE,..,2019
+63,Germany,DE,"Labor force, female",20178692,..,DE,..,2019
+64,Ghana,GH,"Labor force, female",6005941,64.5,GH,..,2019
+65,Gibraltar,GI,"Labor force, female",..,..,GI,..,2019
+66,Greece,GR,"Labor force, female",2082963,..,GR,..,2019
+67,Greenland,GL,"Labor force, female",..,..,GL,..,2019
+68,Grenada,GD,"Labor force, female",..,..,GD,..,2019
+69,Guam,GU,"Labor force, female",33227,..,GU,..,2019
+70,Guatemala,GT,"Labor force, female",2398432,..,GT,..,2019
+71,Guinea,GN,"Labor force, female",2413285,..,GN,..,2019
+72,Guinea-Bissau,GW,"Labor force, female",381843,..,GW,..,2019
+73,Guyana,GY,"Labor force, female",124359,..,GY,..,2019
+74,Haiti,HT,"Labor force, female",2404424,..,HT,..,2019
+75,Honduras,HN,"Labor force, female",1762879,..,HN,..,2019
+76,Hungary,HU,"Labor force, female",2144753,..,HU,..,2019
+77,Iceland,IS,"Labor force, female",101310,..,IS,..,2019
+78,India,IN,"Labor force, female",99229231,..,IN,..,2019
+79,Indonesia,ID,"Labor force, female",52945709,..,ID,..,2019
+80,Iraq,IQ,"Labor force, female",1412173,..,IQ,..,2019
+81,Ireland,IE,"Labor force, female",1104907,..,IE,..,2019
+82,Isle of Man,IM,"Labor force, female",..,..,IM,..,2019
+83,Israel,IL,"Labor force, female",1977032,..,IL,..,2019
+84,Italy,IT,"Labor force, female",11048949,..,IT,..,2019
+85,Jamaica,JM,"Labor force, female",683906,..,JM,..,2019
+86,Japan,JP,"Labor force, female",29957820,..,JP,..,2019
+87,Jordan,JO,"Labor force, female",478047,..,JO,..,2019
+88,Kazakhstan,KZ,"Labor force, female",4342751,113.8,KZ,..,2019
+89,Kenya,KE,"Labor force, female",11709259,..,KE,..,2019
+90,Kiribati,KI,"Labor force, female",..,..,KI,..,2019
+91,Kuwait,KW,"Labor force, female",607623,..,KW,..,2019
+92,Latvia,LV,"Labor force, female",489788,..,LV,..,2019
+93,Lebanon,LB,"Labor force, female",586718,..,LB,..,2019
+94,Lesotho,LS,"Labor force, female",440965,..,LS,..,2019
+95,Liberia,LR,"Labor force, female",1059253,..,LR,..,2019
+96,Libya,LY,"Labor force, female",824621,..,LY,..,2019
+97,Liechtenstein,LI,"Labor force, female",..,..,LI,..,2019
+98,Lithuania,LT,"Labor force, female",724252,..,LT,..,2019
+99,Luxembourg,LU,"Labor force, female",141678,..,LU,..,2019
+100,Madagascar,MG,"Labor force, female",6772308,..,MG,..,2019
+101,Malawi,MW,"Labor force, female",3938170,..,MW,..,2019
+102,Malaysia,MY,"Labor force, female",6015161,..,MY,..,2019
+103,Maldives,MV,"Labor force, female",60036,..,MV,..,2019
+104,Mali,ML,"Labor force, female",3211233,..,ML,..,2019
+105,Malta,MT,"Labor force, female",95778,..,MT,..,2019
+106,Marshall Islands,MH,"Labor force, female",..,..,MH,..,2019
+107,Mauritania,MR,"Labor force, female",394091,..,MR,..,2019
+108,Mauritius,MU,"Labor force, female",241106,..,MU,..,2019
+109,Mexico,MX,"Labor force, female",21579955,..,MX,..,2019
+110,Monaco,MC,"Labor force, female",..,..,MC,..,2019
+111,Mongolia,MN,"Labor force, female",609798,..,MN,..,2019
+112,Montenegro,ME,"Labor force, female",121323,..,ME,..,2019
+113,Morocco,MA,"Labor force, female",2917852,..,MA,..,2019
+114,Mozambique,MZ,"Labor force, female",6878009,..,MZ,..,2019
+115,Myanmar,MM,"Labor force, female",9995269,..,MM,..,2019
+116,Namibia,NAM,"Labor force, female",463295,..,,..,2019
+117,Nauru,NR,"Labor force, female",..,..,NR,..,2019
+118,Nepal,NP,"Labor force, female",9410220,83,NP,..,2019
+119,Netherlands,NL,"Labor force, female",4272426,..,NL,..,2019
+120,New Caledonia,NC,"Labor force, female",64091,..,NC,..,2019
+121,New Zealand,NZ,"Labor force, female",1306451,..,NZ,..,2019
+122,Nicaragua,NI,"Labor force, female",1176162,..,NI,..,2019
+123,Niger,NE,"Labor force, female",3568515,..,NE,..,2019
+124,Nigeria,NG,"Labor force, female",26908373,..,NG,..,2019
+125,Northern Mariana Islands,MP,"Labor force, female",..,..,MP,..,2019
+126,Norway,NO,"Labor force, female",1325725,..,NO,..,2019
+127,Oman,OM,"Labor force, female",355719,..,OM,..,2019
+128,Pakistan,PK,"Labor force, female",15032270,..,PK,..,2019
+129,Palau,PW,"Labor force, female",..,..,PW,..,2019
+130,Panama,PA,"Labor force, female",835614,..,PA,..,2019
+131,Papua New Guinea,PG,"Labor force, female",1292680,..,PG,..,2019
+132,Paraguay,PY,"Labor force, female",1456220,..,PY,..,2019
+133,Peru,PE,"Labor force, female",8629101,..,PE,..,2019
+134,Philippines,PH,"Labor force, female",17400444,..,PH,..,2019
+135,Poland,PL,"Labor force, female",8140981,..,PL,..,2019
+136,Portugal,PT,"Labor force, female",2569385,..,PT,..,2019
+137,Puerto Rico,PR,"Labor force, female",450269,..,PR,..,2019
+138,Qatar,QA,"Labor force, female",290304,..,QA,..,2019
+139,Romania,RO,"Labor force, female",3835461,..,RO,..,2019
+140,Russian Federation,RU,"Labor force, female",35469285,..,RU,..,2019
+141,Rwanda,RW,"Labor force, female",3287616,..,RW,..,2019
+142,Samoa,WS,"Labor force, female",18476,..,WS,..,2019
+143,San Marino,SM,"Labor force, female",..,..,SM,..,2019
+144,Sao Tome and Principe,ST,"Labor force, female",25930,..,ST,..,2019
+145,Saudi Arabia,SA,"Labor force, female",2276739,..,SA,..,2019
+146,Senegal,SN,"Labor force, female",1719104,..,SN,..,2019
+147,Serbia,RS,"Labor force, female",1434062,..,RS,..,2019
+148,Seychelles,SC,"Labor force, female",..,..,SC,..,2019
+149,Sierra Leone,SL,"Labor force, female",1333580,..,SL,..,2019
+150,Singapore,SG,"Labor force, female",1474266,..,SG,..,2019
+151,Sint Maarten (Dutch part),SX,"Labor force, female",..,..,SX,..,2019
+152,Slovenia,SI,"Labor force, female",475269,..,SI,..,2019
+153,Solomon Islands,SB,"Labor force, female",164192,..,SB,..,2019
+154,Somalia,SO,"Labor force, female",910664,..,SO,..,2019
+155,South Africa,ZA,"Labor force, female",10573379,..,ZA,..,2019
+156,South Sudan,SS,"Labor force, female",2309715,..,SS,..,2019
+157,Spain,ES,"Labor force, female",10638162,..,ES,..,2019
+158,Sri Lanka,LK,"Labor force, female",3096043,..,LK,..,2019
+159,Sudan,SD,"Labor force, female",3768548,..,SD,..,2019
+160,Suriname,SR,"Labor force, female",82931,..,SR,..,2019
+161,Sweden,SE,"Labor force, female",2598999,..,SE,..,2019
+162,Switzerland,CH,"Labor force, female",2326190,..,CH,..,2019
+163,Syrian Arab Republic,SY,"Labor force, female",854770,..,SY,..,2019
+164,Tajikistan,TJ,"Labor force, female",920688,..,TJ,..,2019
+165,Thailand,TH,"Labor force, female",17779536,..,TH,..,2019
+166,Timor-Leste,TL,"Labor force, female",249384,..,TL,..,2019
+167,Togo,TG,"Labor force, female",1838276,..,TG,..,2019
+168,Tonga,TO,"Labor force, female",15734,..,TO,..,2019
+169,Trinidad and Tobago,TT,"Labor force, female",283852,..,TT,..,2019
+170,Tunisia,TN,"Labor force, female",1075671,..,TN,..,2019
+171,Turkey,TR,"Labor force, female",11003886,..,TR,..,2019
+172,Turkmenistan,TM,"Labor force, female",1087258,..,TM,..,2019
+173,Turks and Caicos Islands,TC,"Labor force, female",..,..,TC,..,2019
+174,Tuvalu,TV,"Labor force, female",..,..,TV,..,2019
+175,Uganda,UG,"Labor force, female",8215295,..,UG,..,2019
+176,Ukraine,UA,"Labor force, female",9530991,..,UA,..,2019
+177,United Arab Emirates,AE,"Labor force, female",1202897,..,AE,..,2019
+178,United Kingdom,GB,"Labor force, female",16167101,..,GB,..,2019
+179,United States,US,"Labor force, female",76449785,..,US,..,2019
+180,Uruguay,UY,"Labor force, female",802005,..,UY,..,2019
+181,Uzbekistan,UZ,"Labor force, female",6309977,..,UZ,..,2019
+182,Vanuatu,VU,"Labor force, female",56201,..,VU,..,2019
+183,Zambia,ZM,"Labor force, female",3576907,..,ZM,..,2019
+184,Zimbabwe,ZW,"Labor force, female",3582722,..,ZW,..,2019
