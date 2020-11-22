@@ -6,7 +6,11 @@ NU Data Science Bootcamp 2020
 
 # Extract
 We extracted multiple reports from two sources:
-•	World Happiness Reports from Kaggle
+*	World Happiness Reports from Kaggle
+
+
+
+
 o	Five separate csv files for years 2015 through 2019.
 o	Each report includes overall rank, country or region name, total score, GDP per capita score, social support score, healthy life expectancy score, freedom to make life choices score, generosity score, and perceptions of corruption score.
 o	Each report was downloadable and free.
